@@ -1,0 +1,5 @@
+*.txt
+venv
+.ipynb_checkpoints
+anaconda_projects
+
